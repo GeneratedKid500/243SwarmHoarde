@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1028ea91aea6e7e41a9fdc80aeff3223, type: 3}
+  m_Name: GreatSword
+  m_EditorClassIdentifier: 
+  weaponName: Great Sword
+  modelPrefab: {fileID: 4877244148199852434, guid: 34bee2bd5fee03745b17dc968c4525c4, type: 3}
+  baseDamage: 5
+  lightAttack: Light Bash
+  attack1: Down Slash
+  attack2: Low Slash
+  attack3: Jump Slash
+  sprintAttack: Slide Attack
+  sprintAttack2: Run Slash
